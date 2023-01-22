@@ -371,7 +371,7 @@ nav {
   position: relative;
   min-height: 717px;
   padding: 49px 0;
-  background: url("../img/world.jpg") center center/cover no-repeat; }
+  background: url("/img/world.jpg") center center/cover no-repeat; }
   .world_link {
     position: absolute;
     left: 50%;
